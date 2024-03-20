@@ -10,7 +10,7 @@ var MEU_ENDERECO = null;
 var VALOR_CARRINHO = 0;
 var VALOR_ENTREGA = 3;
 
-var CELULAR_EMPRESA = '5591992771918';
+var CELULAR_EMPRESA = '5591984536649';
 
 cardapio.eventos = {
 
